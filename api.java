@@ -63,7 +63,7 @@ class api
  		userList.add(1);
  		userList.add(2);
  		int userSize = userList.size();
- 		int gridletSize = list.size();
+ 		int gridletSize = list.size()
  		int id = 0;
 
  		for (int i = 0; i < gridletSize; i++)
